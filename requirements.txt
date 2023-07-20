@@ -1,0 +1,10 @@
+pyttsx3==2.90              # Text-to-speech library
+speechrecognition==3.8.1   # Library for performing speech recognition
+wikipedia-api==0.5.4       # Wikipedia API for Python
+wolframalpha==4.1.0        # Wolfram Alpha API wrapper
+pyjokes==0.6.0             # Library to get random jokes
+requests==2.26.0           # Library for making HTTP requests
+beautifulsoup4==4.10.0     # Library for web scraping
+clint==0.5.2               # Package for command-line interfaces
+urllib3==1.26.6            # Library for HTTP client
+pywin32==301               # Library for Windows-specific extensions (required for win32com.client)
