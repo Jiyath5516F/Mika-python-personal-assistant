@@ -7,8 +7,9 @@ Mika is a voice assistant created using Python. It can perform various tasks lik
 ## Installation
 
 To use Mika, make sure you have Python installed on your system. You can install the required packages using the following command:
-
+```bash
 **pip install -r requirements.txt**
+```
 
 or
 
